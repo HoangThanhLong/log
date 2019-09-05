@@ -1,0 +1,9 @@
+[Thu Sep 07 09:54:31.773446 2019] [mpm_prefork:notice] [pid 1037] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 09:54:31.773523 2019] [core:notice] [pid 1037] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Sep 05 10:07:44.782596 2019] [mpm_prefork:notice] [pid 988] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 10:07:44.882178 2019] [core:notice] [pid 988] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Sep 05 13:53:42.622189 2019] [php7:notice] [pid 1079] [client ::1:46690] PHP Notice:  Undefined variable: operator in /var/www/html/ud-Calculator/index.php on line 31
+[Thu Sep 05 13:53:42.662315 2019] [php7:notice] [pid 1079] [client ::1:46690] PHP Notice:  Undefined variable: operator in /var/www/html/ud-Calculator/index.php on line 35
+[Thu Sep 05 13:53:42.662363 2019] [php7:notice] [pid 1079] [client ::1:46690] PHP Notice:  Undefined variable: operator in /var/www/html/ud-Calculator/index.php on line 39
+[Thu Sep 05 13:53:42.662383 2019] [php7:notice] [pid 1079] [client ::1:46690] PHP Notice:  Undefined variable: operator in /var/www/html/ud-Calculator/index.php on line 43
+[Thu Sep 05 13:53:49.148937 2019] [php7:warn] [pid 1080] [client ::1:46692] PHP Warning:  A non-numeric value encountered in /var/www/html/ud-Calculator/index.php on line 32, referer: http://localhost/ud-Calculator/
